@@ -11,8 +11,10 @@ import Header from "../Header";
 const Clients = () => {
  
   return (
-    <div className="">
-     Coming soon
+    <div >
+      {/* <div className="col-md-8"> */}
+         Coming soon
+         {/* </div> */}
      
      </div>
   );

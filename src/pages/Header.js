@@ -12,7 +12,7 @@ const Header = () => {
     <div className="header">
     <div className="container-fluid">
       <div className="row">
-        <div className="col-md-2 col-lg-2 col-sm-12 logo ">
+        <div className="col-md-2 col-lg-2 col-sm-12 logo">
           <Link className="navbar-brand" to="/dashboard">
             {" "}
             <img src="logo-light.png" alt="logo" />{" "} 
